@@ -1,7 +1,8 @@
 # phanily_startPage
 
 phanily + fakeboogy
-spaceapps competition:
+
+spaceapps competition: On The Way to the Sun
 
 https://c1phan.github.io/phanily_startPage/
 
